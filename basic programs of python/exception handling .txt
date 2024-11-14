@@ -1,0 +1,34 @@
+exception handling 
+
+
+try:
+
+lines of code which you want to detect for errors 
+
+
+except Exception as e:
+
+print(e)
+
+
+
+
+if you dont want to print error then just use 
+
+try:
+
+////code
+except:
+print("invalid code")
+
+
+or you can handle multiple errors at the same time 
+
+
+try:
+
+
+except ValueError:
+
+except IndexError:
+

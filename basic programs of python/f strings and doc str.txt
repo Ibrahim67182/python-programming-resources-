@@ -1,0 +1,38 @@
+f strings
+
+
+formatted form of string 
+
+e.g 
+
+id=4563
+age=20
+height= 5.320202
+
+
+fstr  =   f"you are {age} years old and your id is {id} , height is :              {height: .3f}"
+
+print(fstr)
+
+
+
+
+
+doc string 
+
+def func():
+    '''this is testing of
+    the 
+    docstring in
+    python 3   '''
+
+    print("hello ")
+
+func()
+print(func.__doc__)
+
+
+
+they are special strings 'to print and appear right after function definition 
+
+and use to print       print(func.__doc__)

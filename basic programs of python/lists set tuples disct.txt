@@ -1,0 +1,53 @@
+lists 
+
+order not matter
+all datatypes store in single list 
+indexes of list can be changed later(mutable)
+make using square braces  []
+
+
+tuples
+
+order not matter
+all datatypes store in single tuple 
+indexes of tuples cannot be changed later (immutable)
+make using small braces      ()
+
+
+sets
+
+order not matter
+all datatypes store in single set
+indexes of sets cannot be changed
+make using curly braces { }
+no element should repeat in set
+empty set can be created as    set()
+
+
+dictonaries
+
+
+these are ordered
+
+ 
+if you want to check whether key exists and throw error by program 
+then use the syntax
+
+
+e.g
+info = {"name":"ibrahim", "age":"20", "grade":"A"}
+
+print(info["name2"])
+
+this will give error if key doesnt exist
+
+
+otherwise 
+
+print(info.get("name2"))  this will print none not give error
+
+
+
+
+
+

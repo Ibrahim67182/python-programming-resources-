@@ -1,0 +1,32 @@
+strings method 
+
+
+if len=9
+slicing  [-3:-2] 
+9-3= 6
+9-2 = 7
+
+means 6 to 7
+
+string functions 
+
+str.upper()                 all letters to uppercase
+
+str.lower()                  all letters to lowercase    
+          
+str.rstrip("!")             all occurence of ! char in   "ibrahim !!!!!!!!!!!!"
+
+
+str.replace("ib","xy")      "ibrahim"  it replaces ib with xy
+                            "ibibib aakakibr" replaces all ib with xy 
+
+str.capitalize()             first letter capital only rest remain same
+
+str.centre(10)              if str len is 6 it make it 10 
+                             by providing all spaces before string
+
+
+str.count("i")           how many times i comes in string
+
+
+str.endswith()

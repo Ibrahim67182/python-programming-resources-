@@ -1,0 +1,14 @@
+short hand if else 
+
+
+syntax :
+
+
+val_true  if condition  else val_false
+
+e.g.   
+
+
+100 if x>y else 0 
+
+(means if x>y then 100 else 0 val)

@@ -1,0 +1,24 @@
+for loops 
+
+0 to 10 loop forward
+
+
+for i in range(10)    means 0 to 9
+
+for i in range(0,10)  0 to 9 
+
+for i in range(1,10)  1 to 9 
+
+               strat point   to 0 exclusive          dec by 1
+for i in range(10,           -1,                         -1)     means 10 to 0 
+
+
+for i in range(10,5,-1)          10 to 6 
+
+
+
+for with else 
+
+if for loop not break in any iteration and completed whole then else statement executed
+
+otherwise not 

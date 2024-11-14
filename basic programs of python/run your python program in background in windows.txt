@@ -1,0 +1,14 @@
+Method 1: Run the Script as a Background Process Using pythonw.exe
+Python comes with two executables: python.exe and pythonw.exe. The pythonw.exe executable is designed to run Python scripts in the background without opening a command prompt or console window.
+
+Steps:
+Save Your Python Script:
+Save your script with a .py extension (e.g., your_script.py).
+
+Run the Script Using pythonw.exe:
+Use pythonw.exe to run your script in the background.
+
+Open Run by pressing Win + R.
+Type the following command and press Enter:
+bash
+pythonw.exe C:\Path\To\your_script.py

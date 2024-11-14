@@ -1,0 +1,25 @@
+import in python
+
+
+ methods :
+
+
+
+    1-    import math 
+
+
+    2-    from math import sqrt,pi
+
+
+    3-    import math as ma
+
+
+    4-    from math import *
+
+
+you can also import functions or variables from other files of .py 
+
+e.g  
+ibrahim.py
+
+import ibrahim as ibr
